@@ -1,6 +1,6 @@
-##Protótipo de reconhecimento de fala utilizando Python
+## Protótipo de reconhecimento de fala utilizando Python
 
-###Ao falar, o programa reconhece o que foi dito e salva em um arquivo de áudio para reproduzir o que foi dito
+### Ao falar, o programa reconhece o que foi dito e salva em um arquivo de áudio para reproduzir o que foi dito
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
